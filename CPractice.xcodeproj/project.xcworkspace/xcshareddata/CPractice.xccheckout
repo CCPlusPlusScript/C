@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>398572D0-283C-4FFB-A352-768B7FC3210E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CPractice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D25C55D8E3511BBFA29A6509B131DF13A620F963</key>
+		<string>https://github.com/CCPlusPlusScript/C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CPractice.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D25C55D8E3511BBFA29A6509B131DF13A620F963</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CCPlusPlusScript/C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D25C55D8E3511BBFA29A6509B131DF13A620F963</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D25C55D8E3511BBFA29A6509B131DF13A620F963</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPractice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
