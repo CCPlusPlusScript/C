@@ -6,23 +6,18 @@
 //  Copyright (c) 2015 Jagdeep Matharu. All rights reserved.
 //
 
-#include <stdio.h>
 
 
-#define NEWLINE = '\n';
 
-int main(int argc, const char * argv[]) {
-    #define i = 10;
+
+
+#include<stdio.h>
+#include <CoreVideo/CoreVideo.h>
+main()
+{
+    textcolor(MAGENTA+BLINK);
+    cprintf("C programming");
     
-    // Size of Int, long,float, short
-        printf("Size of int : %d \n", sizeof(int));
-        printf("Size of float : %d \n", sizeof(float));
-        printf("\v");
-        printf("Size of char : %d \n", sizeof(char));
-        printf("\f");
-        printf("Size of short : %d \n", sizeof(short));
-        printf("%c", NEWLINE);
-        printf("Size of long : %d \n", sizeof(long));
-    
+    getch();
     return 0;
 }
